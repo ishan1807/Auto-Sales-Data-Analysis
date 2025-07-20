@@ -44,7 +44,7 @@ To replicate this analysis:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Auto-Sales-Data-Analysis.git](https://github.com/YourUsername/Auto-Sales-Data-Analysis.git)
+      https://github.com/ishan1807/Auto-Sales-Data-Analysis
     ```
 2.  **Navigate to the Project Directory:**
     ```bash
